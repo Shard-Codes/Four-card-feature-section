@@ -28,8 +28,8 @@ Desktop view             |  Mobile view
 
 ### Links
 
-- Solution URL: [Frontend mentor solution link](https://your-solution-url.com)
-- Live Site URL: [Live site link](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution link](https://www.frontendmentor.io/solutions/four-card-feature-section-made-with-html-and-css-s1dNIbJYit)
+- Live Site URL: [Live site link](https://four-card-section-new.netlify.app/)
 
 ## My process
 
